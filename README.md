@@ -1,3 +1,3 @@
 # dotiles
 
-<h3 style="color:cyan">My lovely dotfiles.</h3>
+<h3>:sparkles: My lovely dotfiles.</h3>
