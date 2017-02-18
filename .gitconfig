@@ -1,0 +1,6 @@
+[user]
+  name = Heather Taylor
+  email = heather@heysparkbox.com
+
+[commit]
+  template = ~/.gitmessage.txt
