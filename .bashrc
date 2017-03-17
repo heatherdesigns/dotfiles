@@ -23,4 +23,8 @@ alias rb=ruby
 #sublime text
 alias stxt='open -a "Sublime Text"'
 
+#aptana
+alias aptana="open -a AptanaStudio3"
+
+
 
